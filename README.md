@@ -30,5 +30,5 @@ Track your daily expenses, view summaries by category and month, and get instant
 ### 📥 1. Clone the repository
 
 ```bash
-git clone https://github.com/omerfarukimat/budget-tracker.git
+git clone https://github.com/binnurimat/budget-tracker.git
 cd budget-tracker
