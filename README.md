@@ -6,12 +6,6 @@ Track your daily expenses, view summaries by category and month, and get instant
 
 ---
 
-## 🖼️ Demo
-
-> *(Add a screenshot here later — you can take one using `Command + Shift + 4` on Mac)*
-
----
-
 ## 🔧 Features
 
 - ➕ Add new expenses (date, category, amount)
